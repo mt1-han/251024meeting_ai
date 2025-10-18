@@ -1,0 +1,11 @@
+{
+  "employees": [
+    {
+      "name": "ハン",
+      "department": "Mtone",
+      "title": "チーフ",
+      "joinedAt": "2019-04-01",
+      "id": "1760784673326"
+    }
+  ]
+}
