@@ -130,7 +130,7 @@ export default function App() {
   return (
     <div className="app">
       <header className="app-header">
-        <h1>人１J事管理アプリ</h1>
+        <h1>人事管理アプリ</h1>
         <div className="header-controls">
           <label className="api-toggle">
             <input 
